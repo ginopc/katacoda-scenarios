@@ -1,0 +1,1 @@
+Congratulation: we have installed our first kubernetes cluster!
